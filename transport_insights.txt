@@ -1,0 +1,24 @@
+RTGS Data Insights Report
+==================================================
+
+1. 📊 Dataset contains 800 records across 11 attributes
+2. 🔢 Found 8 numeric attributes for quantitative analysis
+3.    • daily_passengers: Mean = 1023.67, Std = 582.02
+4.    • fuel_consumption_liters: Mean = 111.81, Std = 52.25
+5.    • distance_km: Mean = 79.01, Std = 40.95
+6. 📝 Found 3 categorical attributes
+7.    • route_id: 20 unique values
+8.    • district: 5 unique values
+9.    • vehicle_type: 6 unique values
+10. ✅ Excellent data quality: No missing values detected
+11. ✅ No duplicate records found
+12. 📋 route_id: 20 categories, most common = 'Route-8'
+13. 📋 district: 5 categories, most common = 'Warangal'
+14. 📋 vehicle_type: 6 categories, most common = 'Motorcycle'
+15. 📊 No strong correlations found between numeric attributes
+16. 🌾 Agriculture-related attributes identified: district
+17. 🌾 Data covers 5 districts
+
+
+Report generated on: 2025-09-06 09:48:25.027990
+
