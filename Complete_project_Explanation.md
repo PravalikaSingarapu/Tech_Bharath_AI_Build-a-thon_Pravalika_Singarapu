@@ -3,7 +3,7 @@
 Let me walk you through the complete step-by-step approach of how this governance system was built and how it works.
 🎯 Project Vision & Problem Statement
 
-Goal: Create a CLI-first agentic system that transforms raw public data into standardized, cleaned, trustworthy evidence for policymakers.
+Goal: Create a CLI-first agentic system that transforms raw public data into standardized, cleaned, trustworthy evidence for policymakers
 
 Key Requirements:
 
