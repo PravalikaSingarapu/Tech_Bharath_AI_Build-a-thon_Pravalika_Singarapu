@@ -1,0 +1,25 @@
+RTGS Data Insights Report
+==================================================
+
+1. 📊 Dataset contains 1,010 records across 10 attributes
+2. 🔢 Found 7 numeric attributes for quantitative analysis
+3.    • year: Mean = 2021.03, Std = 1.41
+4.    • area_hectares: Mean = 25678.74, Std = 14387.60
+5.    • production_tonnes: Mean = 50485.51, Std = 28584.60
+6. 📝 Found 3 categorical attributes
+7.    • district: 10 unique values
+8.    • crop: 10 unique values
+9.    • season: 3 unique values
+10. ✅ Excellent data quality: No missing values detected
+11. ✅ No duplicate records found
+12. 📋 district: 10 categories, most common = 'Khammam'
+13. 📋 crop: 10 categories, most common = 'Soybean'
+14. 📋 season: 3 categories, most common = 'Summer'
+15. 📊 No strong correlations found between numeric attributes
+16. 🌾 Agriculture-related attributes identified: district, crop, season
+17. 🌾 Data covers 10 districts
+18. 📊 Visual insights generated and saved as plots
+
+
+Report generated on: 2025-09-06 04:15:05.169039
+
