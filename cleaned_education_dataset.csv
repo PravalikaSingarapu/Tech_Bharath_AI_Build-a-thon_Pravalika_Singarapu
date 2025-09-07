@@ -1,0 +1,401 @@
+school_name,class_level,subject,total_students,pass_percentage,teacher_student_ratio,infrastructure_score,attendance_rate,exam_date,textbooks_available,digital_resources
+Model School,Class-2,Telugu,64,65.71,0.046,74,86.5,2025-06-05,True,True
+Zilla Parishad School,Class-6,Telugu,45,67.0,0.052000000000000005,81,92.8,2025-05-18,False,True
+Residential School,Class-9,Science,75,77.95,0.052000000000000005,83,83.3,2025-07-17,False,True
+Model School,Class-10,Social Studies,64,87.85,0.063,66,92.1,2025-06-29,True,True
+Zilla Parishad School,Class-10,Social Studies,53,86.47,0.051000000000000004,73,76.9,2024-12-20,False,True
+Govt High School,Class-1,Telugu,60,72.92,0.052000000000000005,77,88.1,2025-01-06,False,True
+Govt High School,Class-4,Mathematics,70,93.69,0.065,77,80.8,2025-08-16,False,True
+Zilla Parishad School,Class-10,English,57,67.01,0.038,74,94.7,2024-11-04,True,False
+Residential School,Class-9,Telugu,25,75.71,0.045,80,88.6,2025-06-29,True,True
+Zilla Parishad School,Class-3,English,66,71.48,0.051000000000000004,89,76.0,2024-10-04,False,True
+Zilla Parishad School,Class-9,Mathematics,31,90.01,0.064,87,87.1,2025-03-05,False,True
+Residential School,Class-4,Telugu,26,83.68,0.037,62,79.6,2024-12-18,False,False
+Residential School,Class-3,Mathematics,42,72.43,0.05,84,87.5,2025-04-23,True,True
+Govt High School,Class-9,Social Studies,68,66.38,0.06,75,84.2,2025-01-17,True,True
+Residential School,Class-2,Science,80,81.72,0.053,98,80.8,2025-03-15,False,True
+Govt High School,Class-7,Mathematics,58,78.43,0.047,65,86.2,2025-03-23,True,False
+Govt High School,Class-1,Social Studies,30,82.76,0.055,76,77.0,2025-05-31,False,False
+Residential School,Class-4,English,64,93.4,0.05,66,83.8,2025-05-14,False,True
+Govt High School,Class-5,Telugu,51,70.93,0.034,89,91.5,2024-09-18,False,True
+Residential School,Class-10,Social Studies,57,72.35,0.04,94,79.8,2025-06-06,False,False
+Model School,Class-6,English,63,80.36,0.05,91,83.2,2025-07-13,False,False
+Model School,Class-8,English,74,93.38,0.045,64,86.2,2025-02-22,True,False
+Zilla Parishad School,Class-10,Telugu,29,65.18,0.056,92,82.7,2025-03-06,True,False
+Govt High School,Class-7,Mathematics,79,73.26,0.059000000000000004,66,94.6,2024-10-26,True,True
+Zilla Parishad School,Class-8,Social Studies,58,77.65,0.063,64,84.3,2025-06-24,True,False
+Residential School,Class-9,Mathematics,32,65.9,0.064,81,86.4,2024-12-14,True,True
+Residential School,Class-7,English,25,82.63,0.063,96,92.5,2024-09-24,False,False
+Zilla Parishad School,Class-2,Science,35,94.73,0.064,78,93.5,2025-03-18,False,True
+Govt High School,Class-8,Social Studies,25,87.21,0.053,73,75.6,2025-08-15,True,True
+Zilla Parishad School,Class-9,Telugu,49,87.79,0.061,79,91.4,2024-12-04,False,False
+Model School,Class-3,Mathematics,49,80.81,0.042,64,80.3,2025-05-28,False,True
+Govt High School,Class-10,Social Studies,20,69.32,0.065,60,75.5,2025-05-10,False,False
+Model School,Class-1,Mathematics,72,88.38,0.052000000000000005,65,88.1,2024-12-31,True,False
+Govt High School,Class-7,Social Studies,72,68.33,0.051000000000000004,70,86.7,2025-08-22,True,True
+Residential School,Class-5,Science,27,71.41,0.049,79,80.0,2025-04-14,True,False
+Model School,Class-7,Science,72,83.91,0.066,69,80.4,2025-09-02,True,True
+Model School,Class-8,Social Studies,76,70.03,0.056,65,90.5,2025-03-21,True,False
+Zilla Parishad School,Class-10,Telugu,38,90.41,0.036000000000000004,64,87.3,2024-12-28,False,True
+Model School,Class-2,Mathematics,24,78.54,0.062,62,90.1,2025-04-21,False,False
+Govt High School,Class-8,Science,52,77.64,0.04,84,92.9,2025-06-18,True,False
+Model School,Class-10,Telugu,59,68.97,0.045,75,95.0,2025-07-20,False,False
+Model School,Class-6,English,29,89.02,0.045,76,84.5,2025-07-15,True,True
+Model School,Class-9,English,22,70.08,0.039,84,75.6,2025-03-24,True,False
+Govt High School,Class-10,Mathematics,79,86.7,0.04,70,76.6,2024-10-15,False,True
+Zilla Parishad School,Class-5,Science,75,76.27,0.04,98,89.7,2024-10-20,True,False
+Residential School,Class-8,English,29,72.35,0.044,94,84.8,2025-07-24,False,False
+Residential School,Class-4,Social Studies,67,86.25,0.051000000000000004,83,82.2,2025-03-12,False,True
+Zilla Parishad School,Class-3,English,20,76.55,0.049,76,90.3,2025-04-07,False,False
+Govt High School,Class-1,Mathematics,39,73.03,0.061,62,84.7,2025-02-25,False,False
+Model School,Class-10,Social Studies,61,66.33,0.051000000000000004,60,92.9,2024-11-14,False,True
+Residential School,Class-6,Telugu,29,75.87,0.052000000000000005,80,87.0,2025-06-11,False,True
+Zilla Parishad School,Class-9,English,29,94.33,0.057,75,89.5,2025-02-20,True,True
+Govt High School,Class-5,Mathematics,67,66.31,0.048,86,85.3,2025-01-16,True,True
+Zilla Parishad School,Class-9,Telugu,28,84.91,0.054,88,86.2,2025-05-21,False,True
+Model School,Class-9,Social Studies,33,87.73,0.034,67,79.2,2025-01-13,False,True
+Residential School,Class-9,English,26,82.66,0.039,87,75.5,2025-03-29,False,True
+Model School,Class-1,Telugu,38,84.34,0.058,70,93.5,2025-06-16,True,True
+Model School,Class-6,English,21,82.29,0.061,97,92.2,2025-03-19,False,False
+Model School,Class-6,Mathematics,32,67.84,0.048,71,83.0,2025-08-07,True,True
+Zilla Parishad School,Class-4,Social Studies,30,89.59,0.037,79,94.7,2024-10-24,False,False
+Model School,Class-6,English,71,80.23,0.062,91,94.0,2024-10-19,True,False
+Model School,Class-2,Science,24,86.7,0.06,95,78.7,2024-11-17,True,True
+Residential School,Class-7,Science,66,77.86,0.037,79,75.3,2025-06-27,False,True
+Zilla Parishad School,Class-7,Social Studies,35,82.76,0.039,82,87.0,2025-01-12,False,True
+Residential School,Class-5,Mathematics,76,65.39,0.062,97,90.4,2025-05-15,True,False
+Model School,Class-10,Mathematics,68,68.15,0.053,69,89.1,2025-06-12,True,True
+Zilla Parishad School,Class-1,Mathematics,22,74.74,0.038,78,78.5,2024-12-25,False,True
+Model School,Class-9,Science,70,69.53,0.054,77,94.9,2024-10-17,True,True
+Zilla Parishad School,Class-1,Mathematics,71,93.14,0.047,78,87.4,2024-10-02,True,True
+Govt High School,Class-7,Science,39,73.86,0.051000000000000004,67,91.5,2024-10-02,False,True
+Zilla Parishad School,Class-1,Mathematics,79,92.93,0.054,74,90.0,2025-06-03,False,False
+Model School,Class-1,Mathematics,76,70.21,0.062,89,91.9,2025-08-19,True,True
+Residential School,Class-5,Telugu,78,80.6,0.051000000000000004,100,94.8,2025-01-20,False,False
+Zilla Parishad School,Class-8,Social Studies,51,73.09,0.035,78,81.5,2025-08-16,True,True
+Govt High School,Class-9,Science,49,88.64,0.054,97,75.3,2025-04-12,True,True
+Zilla Parishad School,Class-3,English,44,73.17,0.056,79,76.3,2025-01-07,True,True
+Residential School,Class-7,English,47,74.83,0.058,79,90.3,2024-09-08,True,False
+Zilla Parishad School,Class-7,Telugu,20,76.12,0.066,75,85.8,2025-06-01,True,True
+Govt High School,Class-10,Mathematics,37,91.1,0.043000000000000003,77,85.5,2025-08-01,False,False
+Model School,Class-8,Telugu,23,89.87,0.034,66,94.2,2024-11-19,True,True
+Residential School,Class-8,Mathematics,34,87.48,0.054,79,81.5,2025-01-17,False,False
+Govt High School,Class-2,Mathematics,65,70.94,0.063,70,75.3,2025-08-04,True,False
+Zilla Parishad School,Class-6,Social Studies,47,91.98,0.041,84,84.5,2025-08-17,True,False
+Model School,Class-6,English,62,69.16,0.041,70,80.3,2024-09-10,False,True
+Residential School,Class-6,Science,62,93.5,0.057,66,93.7,2024-12-25,False,True
+Zilla Parishad School,Class-6,English,51,71.92,0.065,82,75.6,2025-02-08,False,True
+Govt High School,Class-8,Social Studies,79,86.25,0.052000000000000005,100,93.3,2025-01-23,True,False
+Model School,Class-2,Telugu,44,91.55,0.065,75,84.5,2024-12-14,True,False
+Govt High School,Class-7,English,64,77.63,0.036000000000000004,88,81.5,2025-04-09,False,True
+Zilla Parishad School,Class-5,Social Studies,20,87.36,0.033,67,83.7,2025-01-28,True,False
+Model School,Class-6,Telugu,30,86.46,0.05,100,79.7,2025-06-29,False,True
+Residential School,Class-5,Telugu,40,72.83,0.04,77,87.9,2025-03-02,False,False
+Govt High School,Class-9,Social Studies,36,70.84,0.034,68,94.8,2024-09-22,True,False
+Model School,Class-9,Mathematics,54,81.53,0.057,61,90.3,2025-01-07,True,False
+Model School,Class-1,Social Studies,26,79.81,0.033,86,91.7,2025-01-22,False,True
+Zilla Parishad School,Class-9,English,20,88.2,0.053,94,77.3,2025-07-26,False,False
+Zilla Parishad School,Class-7,Mathematics,52,75.33,0.056,83,83.9,2024-10-21,False,True
+Govt High School,Class-3,English,33,67.05,0.039,60,78.7,2025-04-06,False,False
+Residential School,Class-8,Telugu,42,68.33,0.052000000000000005,100,88.7,2025-06-26,False,True
+Govt High School,Class-6,Telugu,64,67.04,0.037,93,88.6,2025-06-06,True,True
+Zilla Parishad School,Class-5,Mathematics,22,87.67,0.049,77,89.7,2024-11-12,True,False
+Residential School,Class-7,Science,40,67.76,0.046,62,86.5,2025-01-05,True,True
+Zilla Parishad School,Class-7,English,57,69.67,0.064,74,86.8,2024-12-12,False,True
+Model School,Class-2,Telugu,29,74.16,0.048,89,77.7,2025-08-01,False,False
+Zilla Parishad School,Class-9,Mathematics,51,93.69,0.039,86,91.1,2025-02-04,False,True
+Residential School,Class-6,English,77,74.44,0.041,88,93.2,2024-11-06,True,True
+Govt High School,Class-6,English,80,72.32,0.034,96,82.0,2025-01-29,False,False
+Residential School,Class-10,Telugu,55,76.45,0.045,89,77.2,2025-06-10,False,True
+Model School,Class-7,Telugu,20,83.23,0.062,88,91.4,2025-04-19,False,True
+Model School,Class-8,English,39,75.27,0.061,71,90.5,2024-09-17,True,False
+Residential School,Class-3,Mathematics,33,73.18,0.057,85,91.1,2025-08-30,False,False
+Residential School,Class-4,Mathematics,49,65.46,0.052000000000000005,76,94.5,2024-11-17,False,False
+Zilla Parishad School,Class-1,Science,34,67.53,0.06,84,81.2,2025-04-19,True,True
+Model School,Class-2,English,21,90.05,0.05,97,92.8,2025-09-04,True,False
+Model School,Class-7,Social Studies,35,79.51,0.066,100,80.5,2025-05-14,True,True
+Zilla Parishad School,Class-2,Science,66,69.46,0.042,84,76.9,2025-01-24,False,False
+Zilla Parishad School,Class-3,Mathematics,77,77.7,0.045,84,93.9,2024-12-07,False,False
+Model School,Class-2,English,79,85.53,0.039,63,84.8,2024-10-09,False,True
+Zilla Parishad School,Class-1,Science,42,80.75,0.038,75,78.5,2025-07-05,True,False
+Zilla Parishad School,Class-6,Mathematics,22,77.19,0.051000000000000004,82,88.3,2025-02-07,False,True
+Residential School,Class-3,Mathematics,46,69.08,0.048,69,80.7,2025-07-23,True,False
+Zilla Parishad School,Class-10,Science,41,89.41,0.035,80,90.2,2025-06-09,True,True
+Govt High School,Class-4,Science,63,84.88,0.064,60,90.1,2025-09-03,True,True
+Govt High School,Class-10,Social Studies,70,83.89,0.063,81,81.1,2025-01-03,False,True
+Model School,Class-1,Mathematics,27,70.44,0.046,91,78.6,2025-08-29,True,False
+Govt High School,Class-1,Social Studies,65,66.98,0.06,90,90.5,2024-12-26,True,True
+Residential School,Class-7,English,21,79.43,0.047,97,75.4,2025-06-08,False,False
+Govt High School,Class-7,Mathematics,53,91.19,0.062,64,83.2,2025-07-11,True,False
+Govt High School,Class-10,Telugu,31,88.1,0.062,90,87.8,2024-12-11,True,False
+Govt High School,Class-3,English,48,73.61,0.052000000000000005,72,81.5,2024-12-08,True,True
+Model School,Class-8,Telugu,44,72.33,0.063,99,92.2,2025-02-06,True,True
+Residential School,Class-6,Telugu,74,76.57,0.056,69,85.0,2025-08-01,True,True
+Model School,Class-6,Telugu,27,75.04,0.042,62,85.1,2024-11-12,True,True
+Residential School,Class-5,Science,72,89.25,0.04,74,76.3,2025-06-24,True,False
+Residential School,Class-5,English,39,71.95,0.037,79,83.5,2025-08-15,False,False
+Model School,Class-1,Social Studies,26,71.0,0.057,65,87.1,2025-07-06,True,True
+Govt High School,Class-4,Telugu,46,70.77,0.045,72,82.0,2024-12-22,False,True
+Zilla Parishad School,Class-2,Science,46,85.17,0.046,77,89.4,2025-04-15,True,True
+Zilla Parishad School,Class-2,Mathematics,21,70.36,0.058,81,76.7,2025-05-02,False,True
+Model School,Class-1,Mathematics,69,69.82,0.048,65,77.9,2025-01-05,False,True
+Model School,Class-8,Telugu,31,66.62,0.035,67,84.8,2025-07-26,True,False
+Residential School,Class-1,Social Studies,24,68.86,0.044,98,92.1,2024-09-06,True,False
+Govt High School,Class-1,Science,49,85.94,0.035,67,76.3,2025-08-14,True,True
+Govt High School,Class-7,Social Studies,44,91.83,0.054,64,82.2,2025-05-22,True,False
+Govt High School,Class-3,Telugu,48,67.37,0.065,75,76.1,2024-09-30,True,True
+Model School,Class-4,Mathematics,52,89.03,0.054,91,84.8,2025-03-02,False,False
+Model School,Class-9,Telugu,52,74.36,0.042,63,76.2,2025-02-01,True,True
+Model School,Class-2,Telugu,71,72.53,0.066,88,89.9,2025-06-30,False,True
+Model School,Class-9,Social Studies,41,81.03,0.061,100,83.5,2025-06-22,False,True
+Govt High School,Class-2,Social Studies,59,91.78,0.058,69,90.4,2024-09-30,False,False
+Zilla Parishad School,Class-3,Mathematics,39,76.22,0.046,84,81.7,2025-06-29,True,True
+Zilla Parishad School,Class-3,Telugu,58,68.09,0.037,80,95.0,2025-02-19,True,False
+Zilla Parishad School,Class-9,Mathematics,30,90.19,0.042,70,75.3,2025-05-31,False,True
+Zilla Parishad School,Class-6,Social Studies,22,70.35,0.039,68,88.8,2024-11-08,True,True
+Residential School,Class-5,English,74,81.92,0.047,83,88.1,2025-08-12,False,True
+Residential School,Class-7,Science,79,80.89,0.062,63,80.3,2024-11-22,True,True
+Model School,Class-3,English,73,84.27,0.055,72,90.4,2024-12-05,False,True
+Residential School,Class-6,English,56,85.08,0.062,97,83.4,2025-05-14,False,False
+Model School,Class-2,Telugu,79,76.73,0.051000000000000004,94,90.7,2025-01-12,True,True
+Residential School,Class-5,Telugu,28,88.68,0.05,65,80.5,2024-09-11,True,False
+Residential School,Class-10,Science,71,93.78,0.042,65,85.2,2025-05-02,True,False
+Model School,Class-1,Mathematics,50,72.51,0.064,72,80.8,2025-04-20,True,True
+Model School,Class-4,Social Studies,65,76.96,0.054,71,79.6,2025-02-18,True,True
+Residential School,Class-7,English,30,65.53,0.04,88,88.6,2025-01-03,True,False
+Model School,Class-3,Telugu,59,71.96,0.064,82,92.4,2025-04-14,True,True
+Model School,Class-9,English,60,80.16,0.036000000000000004,92,88.3,2024-10-13,True,True
+Model School,Class-1,Mathematics,37,82.84,0.048,93,79.1,2025-08-28,True,True
+Residential School,Class-7,Social Studies,37,90.15,0.06,64,83.5,2025-06-27,False,False
+Residential School,Class-6,Telugu,56,83.43,0.05,68,86.0,2025-05-17,True,True
+Govt High School,Class-9,Science,27,83.04,0.043000000000000003,97,79.8,2025-08-08,False,False
+Zilla Parishad School,Class-9,English,78,76.22,0.038,89,87.7,2025-06-13,False,False
+Govt High School,Class-2,Social Studies,66,79.9,0.064,80,87.0,2025-05-16,True,False
+Zilla Parishad School,Class-10,Social Studies,58,77.5,0.062,81,75.4,2025-02-03,False,True
+Model School,Class-9,Telugu,53,85.97,0.037,67,76.2,2025-06-28,False,False
+Residential School,Class-7,Telugu,28,80.81,0.061,64,76.9,2025-04-12,True,True
+Zilla Parishad School,Class-10,Mathematics,38,85.54,0.045,92,91.1,2025-06-02,True,False
+Residential School,Class-7,Science,47,93.31,0.066,65,90.7,2025-05-12,False,False
+Model School,Class-4,Telugu,77,89.0,0.048,96,94.7,2024-10-26,True,True
+Model School,Class-2,Science,64,75.18,0.046,64,87.7,2025-08-04,True,True
+Zilla Parishad School,Class-8,Science,37,84.27,0.037,97,79.8,2025-08-26,True,True
+Govt High School,Class-10,Mathematics,80,74.19,0.061,79,90.1,2025-03-28,True,False
+Residential School,Class-1,English,42,74.88,0.038,81,79.7,2025-03-26,True,True
+Residential School,Class-7,Science,54,75.62,0.061,60,91.5,2025-02-05,True,False
+Model School,Class-5,English,73,81.27,0.056,97,88.4,2025-03-13,False,True
+Model School,Class-9,Science,37,83.43,0.054,61,94.1,2025-05-06,False,False
+Zilla Parishad School,Class-9,Science,53,67.47,0.039,70,85.3,2024-10-07,False,False
+Zilla Parishad School,Class-2,Social Studies,64,69.55,0.052000000000000005,84,82.6,2025-01-25,False,True
+Zilla Parishad School,Class-10,Science,50,86.62,0.067,64,86.9,2025-03-05,False,True
+Govt High School,Class-2,Telugu,47,82.71,0.05,64,93.0,2025-01-18,True,True
+Zilla Parishad School,Class-6,Mathematics,75,75.75,0.06,75,82.5,2024-12-11,True,True
+Zilla Parishad School,Class-6,Science,35,65.6,0.061,78,92.0,2024-09-23,False,False
+Model School,Class-8,Telugu,54,91.23,0.04,93,83.7,2025-06-02,True,False
+Model School,Class-5,Science,42,89.17,0.059000000000000004,76,76.1,2025-01-19,True,False
+Zilla Parishad School,Class-5,Telugu,60,70.89,0.066,70,91.3,2025-07-06,False,False
+Zilla Parishad School,Class-1,Telugu,41,82.77,0.053,87,90.7,2025-04-03,False,False
+Residential School,Class-4,Social Studies,59,93.06,0.056,74,87.2,2024-10-22,True,False
+Model School,Class-1,Social Studies,20,94.29,0.045,97,93.8,2024-12-18,True,True
+Model School,Class-3,Mathematics,23,71.56,0.064,100,81.8,2025-03-17,True,True
+Zilla Parishad School,Class-7,Telugu,43,66.21,0.052000000000000005,92,75.5,2024-12-16,False,False
+Govt High School,Class-1,Telugu,23,79.16,0.037,93,86.0,2025-06-21,True,False
+Model School,Class-4,Social Studies,69,91.09,0.044,85,82.6,2025-06-27,True,True
+Zilla Parishad School,Class-10,Social Studies,61,66.67,0.063,85,84.4,2024-11-06,False,True
+Zilla Parishad School,Class-6,Science,64,92.89,0.055,97,82.6,2025-07-26,True,True
+Residential School,Class-5,English,22,89.83,0.049,75,85.0,2024-12-29,False,True
+Govt High School,Class-8,Social Studies,61,89.47,0.066,73,82.2,2025-01-04,True,True
+Residential School,Class-8,Telugu,30,68.05,0.04,66,84.7,2024-11-11,True,False
+Model School,Class-7,Telugu,58,94.81,0.05,73,87.0,2025-05-18,True,True
+Model School,Class-1,Mathematics,58,70.4,0.043000000000000003,67,80.8,2024-10-01,True,False
+Zilla Parishad School,Class-7,English,52,76.04,0.041,75,93.3,2025-04-04,False,True
+Residential School,Class-9,Mathematics,43,81.18,0.046,90,75.9,2024-12-26,True,False
+Zilla Parishad School,Class-1,Mathematics,27,66.65,0.036000000000000004,80,85.5,2024-11-29,True,True
+Zilla Parishad School,Class-3,Telugu,22,81.7,0.044,82,83.0,2024-12-27,False,True
+Zilla Parishad School,Class-6,English,42,70.21,0.063,64,82.1,2024-12-08,True,True
+Zilla Parishad School,Class-9,Science,34,71.3,0.066,81,78.8,2025-06-07,True,False
+Residential School,Class-6,Mathematics,27,80.19,0.065,63,77.7,2024-09-22,True,False
+Zilla Parishad School,Class-1,Telugu,21,70.05,0.046,95,77.8,2025-01-10,True,True
+Model School,Class-3,Mathematics,55,91.97,0.058,73,93.9,2024-11-28,True,True
+Zilla Parishad School,Class-10,Telugu,67,79.72,0.054,95,82.0,2024-10-10,False,True
+Model School,Class-8,Social Studies,67,66.92,0.045,84,77.3,2024-12-08,True,True
+Govt High School,Class-7,Mathematics,72,85.83,0.05,71,76.8,2025-03-12,False,False
+Govt High School,Class-8,English,33,84.08,0.05,86,92.0,2025-07-25,True,False
+Residential School,Class-8,Telugu,29,70.13,0.038,87,93.3,2025-01-13,True,False
+Zilla Parishad School,Class-7,English,76,77.72,0.057,92,78.5,2024-12-18,True,True
+Residential School,Class-5,English,58,89.43,0.058,65,86.9,2025-05-16,False,True
+Zilla Parishad School,Class-1,English,31,66.75,0.063,82,82.7,2025-07-01,True,False
+Govt High School,Class-3,Social Studies,32,67.74,0.047,75,94.4,2024-09-22,False,False
+Govt High School,Class-5,Mathematics,52,88.46,0.059000000000000004,100,94.0,2024-10-11,False,False
+Model School,Class-7,Science,31,68.23,0.041,93,88.1,2025-02-17,False,False
+Model School,Class-6,Social Studies,55,85.39,0.036000000000000004,60,88.9,2025-07-15,True,True
+Model School,Class-9,Science,44,78.84,0.061,95,82.7,2025-07-21,True,True
+Residential School,Class-9,Telugu,21,74.74,0.059000000000000004,64,76.7,2025-03-25,False,False
+Model School,Class-5,English,56,84.61,0.049,62,85.0,2024-09-30,True,False
+Model School,Class-3,Science,34,84.04,0.045,60,90.9,2024-09-21,True,False
+Residential School,Class-8,Telugu,67,65.65,0.057,76,84.3,2024-10-28,False,False
+Govt High School,Class-6,Mathematics,43,91.88,0.047,60,88.4,2024-10-05,False,False
+Zilla Parishad School,Class-7,Science,56,65.85,0.038,76,89.3,2025-06-02,False,True
+Model School,Class-5,Social Studies,20,93.92,0.045,91,81.9,2024-11-20,False,False
+Residential School,Class-4,Mathematics,66,68.03,0.035,68,93.6,2024-12-02,True,False
+Zilla Parishad School,Class-4,Mathematics,36,66.44,0.052000000000000005,91,76.3,2025-08-19,True,True
+Govt High School,Class-2,Mathematics,74,85.35,0.059000000000000004,87,83.9,2025-02-16,True,True
+Model School,Class-2,English,45,94.32,0.048,92,89.7,2025-07-06,True,False
+Model School,Class-6,Science,55,82.25,0.065,79,94.7,2025-03-12,True,False
+Residential School,Class-9,Social Studies,42,90.86,0.051000000000000004,95,79.1,2024-12-21,True,True
+Zilla Parishad School,Class-2,Mathematics,32,87.31,0.045,71,84.3,2024-09-22,False,True
+Residential School,Class-5,English,47,83.97,0.066,63,75.4,2025-05-30,False,False
+Residential School,Class-7,Mathematics,73,77.47,0.04,87,92.8,2025-05-15,False,True
+Model School,Class-8,Mathematics,20,71.05,0.041,99,89.6,2025-02-06,False,True
+Zilla Parishad School,Class-2,Science,31,85.95,0.054,74,82.3,2024-09-16,False,True
+Residential School,Class-2,Social Studies,72,92.12,0.037,78,84.0,2025-02-06,False,True
+Residential School,Class-3,Social Studies,62,86.23,0.054,85,77.2,2024-09-15,True,False
+Zilla Parishad School,Class-10,Science,42,93.79,0.043000000000000003,62,92.4,2025-01-16,True,False
+Zilla Parishad School,Class-7,Telugu,75,82.07,0.043000000000000003,65,88.9,2025-02-11,True,True
+Govt High School,Class-7,Social Studies,74,78.69,0.046,83,85.8,2024-12-19,True,True
+Residential School,Class-2,Mathematics,58,92.41,0.041,75,77.3,2024-09-17,True,True
+Zilla Parishad School,Class-5,English,22,67.42,0.043000000000000003,94,80.5,2025-05-15,True,False
+Zilla Parishad School,Class-7,Science,80,84.67,0.04,79,84.1,2025-02-12,False,False
+Govt High School,Class-4,Social Studies,80,87.58,0.046,73,78.5,2025-08-21,True,True
+Model School,Class-5,English,67,94.83,0.062,80,78.0,2025-05-29,False,False
+Govt High School,Class-7,Mathematics,38,87.2,0.041,75,92.4,2024-09-27,False,True
+Residential School,Class-10,Science,60,70.92,0.051000000000000004,75,93.1,2024-12-07,True,True
+Model School,Class-1,Social Studies,53,77.77,0.046,81,89.1,2025-04-22,True,False
+Model School,Class-4,Mathematics,27,85.54,0.042,65,79.1,2024-12-01,True,True
+Govt High School,Class-4,Telugu,53,76.77,0.062,64,80.3,2024-10-05,True,False
+Zilla Parishad School,Class-7,Social Studies,48,89.0,0.042,65,86.4,2025-04-22,False,True
+Model School,Class-5,Science,66,69.41,0.049,65,85.8,2024-12-22,True,False
+Model School,Class-10,Mathematics,22,82.48,0.06,65,89.6,2025-02-01,False,True
+Model School,Class-2,English,30,94.56,0.051000000000000004,77,87.6,2025-03-17,True,False
+Zilla Parishad School,Class-3,Mathematics,72,85.15,0.056,69,88.2,2025-02-21,False,False
+Govt High School,Class-3,Social Studies,25,80.95,0.039,83,83.3,2025-06-25,True,False
+Model School,Class-1,Mathematics,29,71.76,0.04,95,85.9,2024-12-06,True,True
+Govt High School,Class-8,Mathematics,56,81.46,0.049,75,91.9,2024-12-30,False,False
+Govt High School,Class-7,Social Studies,23,85.31,0.046,76,77.8,2025-04-26,False,True
+Residential School,Class-6,English,29,76.39,0.035,85,90.3,2025-01-15,False,False
+Govt High School,Class-3,Mathematics,35,72.94,0.038,67,78.0,2025-06-11,False,False
+Govt High School,Class-2,Social Studies,68,67.92,0.056,90,79.2,2025-05-13,True,False
+Govt High School,Class-2,Science,72,82.94,0.051000000000000004,97,76.0,2025-07-28,True,True
+Residential School,Class-4,Social Studies,24,69.98,0.044,80,90.4,2025-03-05,False,False
+Residential School,Class-9,Science,47,69.83,0.059000000000000004,90,94.0,2025-03-29,True,True
+Zilla Parishad School,Class-6,Telugu,37,86.75,0.04,69,88.2,2024-12-21,False,False
+Residential School,Class-9,English,39,94.94,0.034,97,79.4,2025-01-01,False,False
+Zilla Parishad School,Class-10,Telugu,33,83.78,0.049,95,88.9,2025-06-08,False,True
+Model School,Class-9,English,45,88.14,0.055,69,79.3,2024-12-19,True,True
+Zilla Parishad School,Class-7,Social Studies,52,83.32,0.055,97,93.5,2024-12-29,False,False
+Govt High School,Class-10,Science,33,86.3,0.043000000000000003,72,90.3,2025-01-26,False,False
+Residential School,Class-4,Science,26,88.3,0.048,96,77.1,2025-08-23,True,False
+Govt High School,Class-3,Mathematics,66,80.61,0.055,70,84.9,2024-10-18,True,True
+Residential School,Class-9,Mathematics,58,94.68,0.057,67,80.3,2025-08-10,True,True
+Residential School,Class-3,English,45,67.49,0.038,78,77.6,2025-03-01,True,False
+Zilla Parishad School,Class-10,Science,62,86.63,0.051000000000000004,99,94.0,2025-03-14,False,False
+Zilla Parishad School,Class-4,Mathematics,26,76.43,0.047,77,88.4,2024-12-18,True,False
+Govt High School,Class-3,Science,53,65.24,0.06,81,87.6,2024-12-18,False,True
+Zilla Parishad School,Class-7,Social Studies,40,94.95,0.035,93,86.6,2025-05-17,True,False
+Residential School,Class-1,Telugu,44,86.68,0.059000000000000004,91,86.4,2025-01-21,False,True
+Zilla Parishad School,Class-6,Social Studies,40,79.01,0.052000000000000005,77,82.4,2024-10-21,False,True
+Residential School,Class-1,Social Studies,28,73.38,0.039,79,94.1,2025-03-04,False,True
+Residential School,Class-10,Science,70,85.74,0.066,98,94.6,2025-01-22,False,False
+Govt High School,Class-8,Social Studies,71,70.3,0.041,92,76.9,2025-05-05,False,True
+Govt High School,Class-1,Telugu,70,93.9,0.056,64,84.8,2025-02-10,True,True
+Residential School,Class-4,Social Studies,71,77.52,0.058,85,83.9,2025-05-07,False,True
+Zilla Parishad School,Class-9,Telugu,49,85.13,0.057,94,76.1,2025-03-04,True,False
+Zilla Parishad School,Class-7,Telugu,57,79.89,0.058,62,75.8,2025-05-24,True,True
+Govt High School,Class-7,Telugu,35,66.59,0.062,98,91.8,2025-06-19,True,True
+Zilla Parishad School,Class-3,Social Studies,28,83.1,0.061,62,80.6,2024-11-20,True,False
+Model School,Class-9,Social Studies,22,81.31,0.059000000000000004,94,88.1,2025-06-30,True,False
+Residential School,Class-7,Social Studies,34,66.82,0.039,87,75.4,2025-05-18,True,True
+Govt High School,Class-6,Telugu,28,72.2,0.051000000000000004,100,88.9,2025-08-15,True,True
+Residential School,Class-9,Science,44,91.99,0.039,92,87.5,2025-03-25,True,False
+Govt High School,Class-2,Science,52,74.58,0.044,60,87.4,2025-01-12,False,False
+Zilla Parishad School,Class-6,English,78,80.05,0.058,91,76.7,2025-06-04,True,True
+Model School,Class-1,Social Studies,76,90.65,0.059000000000000004,67,92.6,2025-06-15,False,True
+Zilla Parishad School,Class-5,Telugu,50,91.96,0.056,85,78.8,2025-01-23,True,False
+Zilla Parishad School,Class-5,Telugu,80,88.48,0.061,91,79.3,2025-06-13,True,True
+Zilla Parishad School,Class-3,Telugu,55,91.93,0.049,86,93.3,2025-05-11,True,False
+Govt High School,Class-10,Telugu,57,80.73,0.04,63,83.2,2024-10-21,False,True
+Residential School,Class-8,English,68,66.36,0.063,75,92.9,2024-11-21,True,True
+Residential School,Class-4,Social Studies,37,79.26,0.043000000000000003,85,79.8,2025-03-19,True,False
+Govt High School,Class-2,English,71,93.04,0.066,83,79.6,2024-12-29,False,True
+Govt High School,Class-8,Social Studies,79,72.42,0.036000000000000004,89,81.0,2025-07-11,False,True
+Govt High School,Class-3,Telugu,52,77.36,0.056,61,82.1,2024-10-11,False,True
+Zilla Parishad School,Class-4,Telugu,76,79.86,0.048,71,80.8,2025-08-20,True,True
+Govt High School,Class-6,Telugu,29,92.3,0.058,87,79.4,2024-11-29,True,True
+Zilla Parishad School,Class-10,Science,34,81.21,0.052000000000000005,100,90.3,2025-07-24,False,False
+Model School,Class-1,Telugu,60,70.33,0.04,86,92.3,2025-04-08,True,True
+Residential School,Class-4,English,53,90.19,0.038,92,82.2,2024-10-24,False,False
+Model School,Class-2,Mathematics,39,91.45,0.061,91,76.7,2024-11-14,True,True
+Model School,Class-2,Social Studies,69,89.81,0.049,93,84.1,2025-01-14,True,False
+Model School,Class-3,English,46,67.72,0.055,62,82.9,2025-03-16,False,False
+Model School,Class-6,English,52,70.93,0.056,87,75.2,2025-06-18,False,False
+Model School,Class-6,English,65,94.88,0.065,92,83.3,2024-12-26,False,True
+Residential School,Class-5,Mathematics,77,89.27,0.047,96,84.9,2024-09-18,True,False
+Residential School,Class-7,Mathematics,73,82.39,0.055,89,81.9,2025-02-28,False,True
+Govt High School,Class-8,Mathematics,69,83.03,0.055,89,85.7,2025-03-04,True,False
+Zilla Parishad School,Class-5,Science,53,84.99,0.053,96,90.2,2025-07-23,True,True
+Model School,Class-5,Science,48,77.37,0.058,65,91.4,2025-01-02,False,False
+Govt High School,Class-7,English,42,71.97,0.061,89,88.7,2024-09-16,True,True
+Model School,Class-8,Telugu,22,67.04,0.057,62,84.4,2024-12-10,False,True
+Residential School,Class-10,Social Studies,48,83.29,0.054,61,89.5,2025-06-20,False,True
+Zilla Parishad School,Class-1,Mathematics,45,71.91,0.041,80,89.2,2024-10-27,False,True
+Residential School,Class-5,Telugu,70,79.38,0.056,92,80.6,2024-09-27,True,True
+Zilla Parishad School,Class-4,Social Studies,62,74.58,0.06,87,92.3,2025-03-08,True,False
+Model School,Class-2,English,59,83.2,0.033,85,89.4,2024-11-07,False,True
+Model School,Class-7,Mathematics,44,65.4,0.047,96,82.9,2025-01-07,True,True
+Zilla Parishad School,Class-2,Telugu,37,68.7,0.035,67,88.0,2024-12-06,False,True
+Zilla Parishad School,Class-2,Social Studies,25,77.23,0.059000000000000004,90,85.6,2024-11-24,True,True
+Model School,Class-8,English,21,80.81,0.038,83,76.1,2024-10-24,False,True
+Model School,Class-3,Social Studies,68,75.46,0.06,77,90.3,2024-12-07,True,False
+Zilla Parishad School,Class-9,Mathematics,79,92.42,0.045,78,75.4,2024-11-22,True,False
+Model School,Class-3,Mathematics,29,74.59,0.044,93,86.9,2024-12-08,True,False
+Govt High School,Class-2,Science,63,70.56,0.056,72,80.0,2025-06-22,True,False
+Residential School,Class-6,Mathematics,68,80.16,0.057,84,82.9,2025-07-10,False,True
+Zilla Parishad School,Class-5,Social Studies,64,81.63,0.05,96,78.7,2025-06-06,True,False
+Model School,Class-1,Telugu,37,69.22,0.047,86,78.5,2024-12-20,False,False
+Govt High School,Class-9,Social Studies,39,84.67,0.058,79,81.3,2025-07-23,True,False
+Zilla Parishad School,Class-10,Science,76,84.9,0.063,60,84.0,2025-01-29,False,False
+Zilla Parishad School,Class-3,Social Studies,32,71.26,0.05,83,79.7,2024-10-25,True,True
+Govt High School,Class-3,English,65,84.75,0.044,79,78.7,2025-04-10,False,True
+Residential School,Class-9,Mathematics,44,87.47,0.04,92,78.4,2024-11-04,True,False
+Zilla Parishad School,Class-6,Telugu,63,90.28,0.063,77,91.0,2025-02-18,False,True
+Residential School,Class-10,Telugu,62,92.71,0.051000000000000004,71,76.8,2025-07-04,True,False
+Residential School,Class-5,Social Studies,79,74.73,0.033,78,94.9,2025-04-27,False,False
+Residential School,Class-7,Science,40,67.81,0.044,65,79.7,2024-10-17,False,True
+Zilla Parishad School,Class-2,English,42,90.0,0.036000000000000004,68,81.9,2024-12-29,False,False
+Zilla Parishad School,Class-8,English,52,90.07,0.045,74,83.6,2024-09-17,True,False
+Zilla Parishad School,Class-3,Mathematics,62,70.71,0.055,78,83.3,2024-10-04,True,True
+Govt High School,Class-6,Science,33,80.75,0.049,69,92.4,2025-08-04,True,True
+Residential School,Class-7,Science,61,83.24,0.055,70,84.6,2025-07-26,True,True
+Residential School,Class-3,Telugu,46,82.33,0.053,77,79.7,2025-08-11,False,True
+Zilla Parishad School,Class-6,Mathematics,67,74.22,0.045,71,80.5,2025-08-02,True,True
+Residential School,Class-2,Science,20,82.7,0.066,60,79.3,2025-04-15,False,True
+Zilla Parishad School,Class-9,Science,37,93.87,0.058,95,88.7,2025-01-04,False,True
+Model School,Class-4,Social Studies,57,72.76,0.055,63,89.5,2024-12-12,True,False
+Residential School,Class-6,Telugu,30,81.95,0.062,87,85.5,2024-12-18,False,False
+Residential School,Class-5,Science,64,71.58,0.051000000000000004,98,86.2,2024-10-06,False,False
+Model School,Class-10,Mathematics,23,90.77,0.045,86,93.2,2025-07-03,True,False
+Govt High School,Class-7,Science,28,90.11,0.047,84,92.7,2025-08-20,True,False
+Govt High School,Class-2,Social Studies,67,74.42,0.038,81,89.6,2024-11-17,True,False
+Model School,Class-4,Mathematics,21,67.41,0.065,71,92.5,2025-01-12,True,False
+Residential School,Class-4,Science,34,91.19,0.063,65,75.9,2025-03-02,False,False
+Govt High School,Class-9,Telugu,21,76.79,0.06,87,87.0,2024-10-05,True,False
+Residential School,Class-4,English,47,70.84,0.062,96,89.9,2024-12-31,False,False
+Residential School,Class-10,Telugu,20,69.75,0.062,60,94.9,2024-11-26,True,True
+Model School,Class-10,English,77,92.28,0.033,94,79.9,2025-07-15,True,False
+Govt High School,Class-9,Science,34,82.36,0.038,83,86.8,2025-04-06,True,False
+Residential School,Class-5,Telugu,80,92.0,0.04,67,81.2,2024-10-13,False,False
+Govt High School,Class-1,English,69,86.24,0.056,84,93.0,2025-03-25,True,False
+Residential School,Class-6,Social Studies,25,81.62,0.038,65,82.8,2024-12-26,False,False
+Residential School,Class-8,Telugu,61,94.63,0.042,60,75.2,2024-09-22,False,False
+Zilla Parishad School,Class-3,Telugu,68,68.51,0.06,100,91.1,2025-09-04,True,False
+Govt High School,Class-1,Social Studies,30,90.7,0.054,60,82.3,2024-10-17,True,False
+Model School,Class-3,Science,59,71.32,0.052000000000000005,72,92.3,2025-02-13,False,True
+Model School,Class-10,Telugu,31,85.98,0.054,74,77.3,2025-01-05,True,True
+Model School,Class-5,Telugu,38,76.93,0.049,92,87.5,2024-09-16,True,False
+Residential School,Class-8,Mathematics,70,67.95,0.059000000000000004,100,90.5,2024-10-27,True,True
+Govt High School,Class-1,Telugu,76,78.78,0.058,63,82.8,2025-07-03,False,False
+Residential School,Class-4,English,56,91.18,0.054,67,79.4,2025-04-05,True,True
+Zilla Parishad School,Class-2,Science,23,75.81,0.066,70,88.9,2025-03-20,True,False
+Residential School,Class-4,English,30,85.82,0.065,77,86.2,2025-03-01,True,True
+Zilla Parishad School,Class-9,Social Studies,63,76.65,0.047,93,78.8,2025-04-29,True,False
+Residential School,Class-5,Telugu,57,91.31,0.065,87,90.2,2025-05-10,False,False
+Govt High School,Class-1,Telugu,68,89.65,0.05,72,77.2,2024-12-16,True,False
