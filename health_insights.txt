@@ -1,0 +1,25 @@
+RTGS Data Insights Report
+==================================================
+
+1. 📊 Dataset contains 600 records across 12 attributes
+2. 🔢 Found 8 numeric attributes for quantitative analysis
+3.    • patient_admissions: Mean = 259.86, Std = 140.26
+4.    • outpatient_visits: Mean = 1045.19, Std = 530.42
+5.    • bed_occupancy_rate: Mean = 67.84, Std = 16.11
+6. 📝 Found 4 categorical attributes
+7.    • hospital_name: 6 unique values
+8.    • district: 5 unique values
+9.    • specialty: 6 unique values
+10. ✅ Excellent data quality: No missing values detected
+11. ✅ No duplicate records found
+12. 📋 hospital_name: 6 categories, most common = 'Osmania General'
+13. 📋 district: 5 categories, most common = 'Khammam'
+14. 📋 specialty: 6 categories, most common = 'Cardiology'
+15. 📋 month: 12 categories, most common = 'Oct'
+16. 📊 No strong correlations found between numeric attributes
+17. 🌾 Agriculture-related attributes identified: district
+18. 🌾 Data covers 5 districts
+
+
+Report generated on: 2025-09-06 09:48:27.863870
+
